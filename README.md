@@ -3,6 +3,10 @@
 🔗 **Live Demo:**  
 👉 <a href="https://outseek.davidjenner.workers.dev/" target="_blank">Open Outseek</a>
 
+## 🎥 Video Demo
+
+![Outseek Demo](./assets/Outseek-demo.gif)
+
 ---
 
 ## 🚀 Overview
@@ -98,3 +102,13 @@ Sometimes, feeling "at work" is the first step to getting back there.
 
 If you find this useful, consider giving the repo a star ⭐  
 or sharing it with someone who might benefit from it.
+
+---
+
+## ☕ Support
+
+If this tool helped you, you can support its development:
+
+<a href="https://www.buymeacoffee.com/godavid" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
+</a>
